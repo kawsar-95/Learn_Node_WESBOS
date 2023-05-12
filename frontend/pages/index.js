@@ -1,5 +1,6 @@
+/* eslint-disable prettier/prettier */
 export default function IndexPage() {
-  return <div>
-    <p>Hello!</p>
-  </div>
+    return <div>
+        <p>Hello!</p>
+    </div>
 }
